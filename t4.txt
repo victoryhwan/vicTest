@@ -1,1 +1,6 @@
 test4 zzz
+<<<<<<< HEAD
+=======
+
+ttatatatta
+>>>>>>> 630ce4110c3bb299e15f97db3ab999eae214d317
